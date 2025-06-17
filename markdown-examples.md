@@ -16,13 +16,9 @@
 
 ## Ссылки
 - [Обычная ссылка в строке](https://www.google.com)
-- [Обычная ссылка с title](https://www.google.com "Сайт Google")
-- [Ссылка со сноской][Произвольный регистронезависимый текст]
-- [Относительная ссылка на документ](../blob/master/LICENSE)
 
 ## Изображения
 - Внутри строки:![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
-- В сноске:![alt-текст][logo]
 
 ## Код
 ```python
